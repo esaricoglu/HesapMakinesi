@@ -44,21 +44,3 @@ public class HesapMakinesi {
         }
     }
 }
-
-
-        /*if (decision == 1) {
-            System.out.println("Toplam: " + (a + b));
-        } else if (decision == 2) {
-            System.out.println("Fark: " + (a - b));
-        } else if (decision == 3) {
-            System.out.println("Çarpım: " + (a * b));
-        } else if (decision == 4) {
-            if (b != 0) {
-                System.out.println("Bölüm: " + (a / b));
-            } else {
-                System.out.println("Bölen 0 olamaz.");
-            }
-        } else {
-            System.out.println("Tanımlanmamış bir seçim yaptınız.");
-        }*/
-
